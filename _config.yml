@@ -1,6 +1,6 @@
 name: Drew
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.24145
 typography_spectrum: 0.31527
 title: Drew
 cta:
@@ -22,8 +22,8 @@ color:
     - '#de873a'
     - '#00a3d3'
     - '#a12f35'
-  brandStrength: 0.125
+  brandStrength: 0.25
   lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
