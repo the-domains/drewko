@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Drewko]]></title>
-        <description><![CDATA[Drewko]]></description>
+        <title><![CDATA[Drew]]></title>
+        <description><![CDATA[Drew]]></description>
         <link>http://drewko.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:50:29 GMT</lastBuildDate>
         <atom:link href="http://drewko.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Connect with Me]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Steamboat420</h1><p>steamboat420.com</p></article>]]></description>
             <link>http://drewko.com/good-to-be-back/index.html</link>
             <guid isPermaLink="false">97e213ab-d570-4e47-9c97-6de8d8e62a49</guid>
-            <pubDate>Sun, 10 Apr 2016 23:34:10 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 23:50:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
