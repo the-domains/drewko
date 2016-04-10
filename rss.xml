@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[drewko]]></title>
+        <description><![CDATA[drewko]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 21:33:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good To Be Back]]></title>
+            <description><![CDATA[<article><h1>Good To Be Back</h1><p>steamboat420.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/791516f6-3330-4827-810f-777f7ece4289.png"></article>]]></description>
+            <link>undefinedgood-to-be-back/index.html</link>
+            <guid isPermaLink="false">97e213ab-d570-4e47-9c97-6de8d8e62a49</guid>
+            <pubDate>Sun, 10 Apr 2016 21:33:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
