@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Founded in 2014, Steamboat420 is a cannabis lifestyle brand headquartered in Steamboat Springs, Colorado.'
-datePublished: '2016-04-10T23:31:25.822Z'
-dateModified: '2016-04-10T23:31:15.673Z'
+datePublished: '2016-04-10T23:34:10.799Z'
+dateModified: '2016-04-10T23:31:33.982Z'
 title: Latest Projects
 author: []
 sourcePath: _posts/2016-04-10-good-to-be-back.md
