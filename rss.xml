@@ -4,21 +4,21 @@
         <description><![CDATA[drewko]]></description>
         <link>http://drewko.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 22:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:20:30 GMT</lastBuildDate>
         <atom:link href="http://drewko.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Connect with Me]]></title>
+            <description><![CDATA[<article><h1>Connect with Me</h1><p>Facebook: https://www.facebook.com/drewkoehler.drewko</p></article>]]></description>
+            <link>http://drewko.com/connect-with-me/index.html</link>
+            <guid isPermaLink="false">030d41a4-31c9-495f-9c87-2649c963ee61</guid>
+            <pubDate>Sun, 10 Apr 2016 23:19:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Latest Projects]]></title>
             <description><![CDATA[<article><h1></h1><p>Founded in 2014, Steamboat420 is a cannabis lifestyle brand headquartered in Steamboat Springs, Colorado.</p></article>]]></description>
             <link>http://drewko.com/good-to-be-back/index.html</link>
             <guid isPermaLink="false">97e213ab-d570-4e47-9c97-6de8d8e62a49</guid>
             <pubDate>Sun, 10 Apr 2016 22:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connect with Me]]></title>
-            <description><![CDATA[<article><h1>Connect with Me</h1><p>Facebook: https://www.facebook.com/drewkoehler.drewko</p></article>]]></description>
-            <link>http://drewko.com/connect-with-me/index.html</link>
-            <guid isPermaLink="false">030d41a4-31c9-495f-9c87-2649c963ee61</guid>
-            <pubDate>Sun, 10 Apr 2016 22:19:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
