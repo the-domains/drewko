@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: steamboat420.com
-datePublished: '2016-04-10T23:51:09.008Z'
-dateModified: '2016-04-10T23:50:36.816Z'
+datePublished: '2016-04-10T23:52:02.028Z'
+dateModified: '2016-04-10T23:51:56.058Z'
 title: Latest Projects
 author: []
 sourcePath: _posts/2016-04-10-good-to-be-back.md
@@ -29,7 +29,5 @@ _type: Article
 Founded in 2014, Steamboat420 is a cannabis lifestyle brand headquartered in Steamboat Springs, Colorado.
 
 [steamboat420.com][0]
-
-steamboat420.com 
 
 [0]: https://steamboat420.com/
