@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[drewko]]></title>
-        <description><![CDATA[drewko]]></description>
+        <title><![CDATA[Drewko]]></title>
+        <description><![CDATA[Drewko]]></description>
         <link>http://drewko.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:31:58 GMT</lastBuildDate>
         <atom:link href="http://drewko.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Connect with Me]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sun, 10 Apr 2016 23:19:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Latest Projects]]></title>
-            <description><![CDATA[<article><h1></h1><p>Founded in 2014, Steamboat420 is a cannabis lifestyle brand headquartered in Steamboat Springs, Colorado.</p></article>]]></description>
+            <title><![CDATA[Steamboat420]]></title>
+            <description><![CDATA[<article><h1>Steamboat420</h1><p>Founded in 2014, Steamboat420 is a cannabis lifestyle brand headquartered in Steamboat Springs, Colorado.</p></article>]]></description>
             <link>http://drewko.com/good-to-be-back/index.html</link>
             <guid isPermaLink="false">97e213ab-d570-4e47-9c97-6de8d8e62a49</guid>
-            <pubDate>Sun, 10 Apr 2016 22:36:26 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 23:31:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
