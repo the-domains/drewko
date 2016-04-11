@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Facebook
-datePublished: '2016-04-11T00:10:26.803Z'
-dateModified: '2016-04-11T00:08:35.703Z'
+datePublished: '2016-04-11T00:19:16.676Z'
+dateModified: '2016-04-11T00:19:13.034Z'
 title: Connect with Me
 author: []
 sourcePath: _posts/2016-04-10-connect-with-me.md
@@ -31,4 +31,4 @@ _type: Article
 
 [0]: https://facebook.com/drewkoehler.drewko
 [1]: https://twitter.com/drewko
-[2]: null
+[2]: https://www.instagram.com/drewkoe
