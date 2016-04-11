@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: steamboat420.com
-datePublished: '2016-04-10T23:52:02.028Z'
-dateModified: '2016-04-10T23:51:56.058Z'
+datePublished: '2016-04-11T00:13:31.195Z'
+dateModified: '2016-04-11T00:13:12.829Z'
 title: Latest Projects
 author: []
 sourcePath: _posts/2016-04-10-good-to-be-back.md
@@ -22,7 +22,9 @@ url: good-to-be-back/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f518d82-6cd2-4c2e-ab43-19ede5ad7fb5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3500fc9-9719-496a-bf55-0b60d839c2cd.jpg)
+
+## 
 
 ## Steamboat420
 
